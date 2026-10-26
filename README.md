@@ -1,11 +1,11 @@
 ## Hi, I'm GRQZ
 Message of the day:  
-"grqz" doesn't stand for anything. Just a combination of some random letters.
+definitely need `traverse_obj` in my own scripts. gonna steal it from yt-dlp.
 
 
 ---
 
-Last Update: 2026-10-25 03:04:05.350966+00:00  
+Last Update: 2026-10-26 03:03:50.706494+00:00  
 [Contact Me](mailto:%67%72%71%7a%2e%64%65%76%2b%63%40%70%72%6f%74%6f%6e%2e%6d%65)
 
 ## "Pinned repos"
