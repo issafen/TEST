@@ -1,11 +1,11 @@
 ## Hi, I'm GRQZ
 Message of the day:  
-Vercel, go fix your SNI extraction!
+definitely need `traverse_obj` in my own scripts. gonna steal it from yt-dlp.
 
 
 ---
 
-Last Update: 2026-11-16 04:37:26.911646+00:00  
+Last Update: 2026-11-17 06:23:50.914441+00:00  
 [Contact Me](mailto:%67%72%71%7a%2e%64%65%76%2b%63%40%70%72%6f%74%6f%6e%2e%6d%65)
 
 ## "Pinned repos"
